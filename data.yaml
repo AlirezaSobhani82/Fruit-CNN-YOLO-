@@ -1,0 +1,17 @@
+
+train: E:\My projects\Fruit(CNN,YOLO)\Train File
+val: E:\My projects\Fruit(CNN,YOLO)\val File
+test: E:\My projects\Fruit(CNN,YOLO)\Test File
+
+
+names:
+  0: Banana
+  1: Jackfruit
+  2: Mango
+  3: Litchi
+  4: Hog Plum
+  5: Papaya
+  6: Grapes
+  7: Apple
+  8: Orange
+  9: Guava
