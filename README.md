@@ -57,6 +57,5 @@ Passionate about real-world ML projects,and freelance growth
 ## 📫 Contact
 ## Feel free to reach out via LinkedIn or GitHub for collaboration or freelance opportunities.
 ## https://www.linkedin.com/in/alireza-sobhani-385134245
-## https://wa.me/message/XW6WQJCVM6LQH1
 ---
 
